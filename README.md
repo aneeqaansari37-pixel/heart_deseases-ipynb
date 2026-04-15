@@ -1,3 +1,5 @@
+# **Heart Diseases**
+
 This project focuses on predicting the likelihood of heart disease using machine learning techniques. By analyzing patient health data, the model helps in early detection and supports better medical decision-making.
 
 🎯 Objective
